@@ -1,0 +1,31 @@
+Name,Age,Salary,City,Department
+John,27,70184,New York,HR
+Alice,39,61849,San Francisco,Engineering
+Bob,24,55400,Los Angeles,Sales
+Charlie,31,74801,Chicago,Marketing
+David,38,48731,Boston,Finance
+John,24,72032,New York,HR
+Alice,20,60259,San Francisco,Engineering
+Bob,27,60476,Los Angeles,Sales
+Charlie,32,76420,Chicago,Marketing
+David,34,66560,Boston,Finance
+John,21,46753,New York,HR
+Alice,33,48555,San Francisco,Engineering
+Bob,22,75961,Los Angeles,Sales
+Charlie,22,44813,Chicago,Marketing
+David,26,71532,Boston,Finance
+John,28,56699,New York,HR
+Alice,29,48395,San Francisco,Engineering
+Bob,32,73618,Los Angeles,Sales
+Charlie,20,78606,Chicago,Marketing
+David,25,58877,Boston,Finance
+John,37,49349,New York,HR
+Alice,27,59959,San Francisco,Engineering
+Bob,20,52217,Los Angeles,Sales
+Charlie,33,60116,Chicago,Marketing
+David,35,54001,Boston,Finance
+John,31,59415,New York,HR
+Alice,24,43997,San Francisco,Engineering
+Bob,27,61426,Los Angeles,Sales
+Charlie,25,59560,Chicago,Marketing
+David,27,78461,Boston,Finance
